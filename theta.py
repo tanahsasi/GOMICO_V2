@@ -67,5 +67,5 @@ try:
             cv2.destroyAllWindows()
             break
 finally:
-    #
+    #kk
     pipeline.stop()
